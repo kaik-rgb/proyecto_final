@@ -1,0 +1,10 @@
+EC01. Evidencia de Conocimiento I
+EP01. Elicitación de requisitos
+EC02. Evidencia de Conocimiento II
+EP02. Obtención de requisitos
+EC03. Evidencia de Conocimiento III
+EP03. Modelado de requisitos
+EC04. Evidencia de Conocimiento IV
+EP04. Técnicas de validación
+ED01. Presentación del proyecto final
+EI. Manual técnico
